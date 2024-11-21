@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StsServerIdentity", "StsServer\StsServerIdentity.csproj", "{898674B2-A6F9-4B40-A0F5-A55AB19D1CE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResourceServer", "ResourceServer\ResourceServer.csproj", "{F2A8E41D-DE8D-424C-A51E-1548900B95B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFE303E0-D2C3-4A8B-9A6C-7C71902E46FE}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898674B2-A6F9-4B40-A0F5-A55AB19D1CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898674B2-A6F9-4B40-A0F5-A55AB19D1CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898674B2-A6F9-4B40-A0F5-A55AB19D1CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898674B2-A6F9-4B40-A0F5-A55AB19D1CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A8E41D-DE8D-424C-A51E-1548900B95B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A8E41D-DE8D-424C-A51E-1548900B95B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A8E41D-DE8D-424C-A51E-1548900B95B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A8E41D-DE8D-424C-A51E-1548900B95B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24994B7F-EC5C-4124-87CE-6D606062BCDA}
+	EndGlobalSection
+EndGlobal
